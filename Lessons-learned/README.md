@@ -7,4 +7,9 @@
 <h2>Used HTML and CSS.</h2>
 <p>Foi usado HTML e CSS.</p>
 
-![exemplo](./Resultado.png)
+# en-US
+![English Version](./img/ResultEN.png)
+
+# pt-BR
+
+![pt-BR Versão](./img/ResultBR.png)
